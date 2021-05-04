@@ -58,12 +58,12 @@ class NavOne extends Component {
                         <li>
                           <a href="#none">
                             <i className="fa fa-envelope"></i>
-                            needhelp@oxpitan.com
+                            james@appignite.live
                           </a>
                         </li>
                         <li>
                           <a href="#none">
-                            <i className="fa fa-phone-square"></i>666 888 0000
+                            <i className="fa fa-phone-square"></i>540 975 1037
                           </a>
                         </li>
                       </ul>
