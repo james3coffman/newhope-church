@@ -1,4 +1,4 @@
-import React from 'react';
+ Himport React from 'react';
 import Layout from "../components/Layout";
 import NavOne from "../components/NavOne";
 import Footer from "../components/Footer";
@@ -18,7 +18,7 @@ import CallToActionTwo from "../components/CallToActionTwo";
 
 const HomePage = () => {
     return (
-        <Layout pageTitle="Oxpitan - React Next Nonprofit Charity and Fundraising Template">
+        <Layout pageTitle="New Hope Bible Church">
           <NavOne />
           <SliderOne />
           <EntryArea />
